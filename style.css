@@ -1,0 +1,34 @@
+body{
+    background-image: url(http://www.mondosfondi.it/wp-content/uploads/2018/05/Sfondo-desktop-HD-tramonto-sul-mare.jpg);
+}
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+h2{
+    text-align: justify;
+}
+
+img{
+    margin: -10px;
+    width: 350px;
+    position: absolute;
+}
+
+.text{
+    text-align: left;
+}
+table{
+    margin: 250px;
+    border: solid black;
+}
+
+button{
+    width: 100px;
+}
